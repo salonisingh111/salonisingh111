@@ -1,3 +1,5 @@
+![image](https://github.com/salonisingh111/salonisingh111/blob/main/saloni's_background.png?raw=true)
+
 # 💫 About Me:
 I’m a B.Sc. Computer Science student specializing in frontend development with a focus on clean UI, responsive layouts, and practical web interfaces. I’m actively working toward becoming a software developer and expanding into full-stack work. My interests include web technologies, software architecture, and building products that solve real problems. I use GitHub to document my learning, ship small projects, and continuously improve through experimentation and iteration.
 
