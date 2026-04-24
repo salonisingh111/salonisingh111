@@ -20,16 +20,38 @@ I’m a B.Sc. Computer Science student specializing in frontend development with
 [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salonisingh111&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=salonisingh111&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salonisingh111&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssaloni3258@gmail.com) 
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/saloni_3258)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/salonisingh3258)
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=salonisingh111&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=salonisingh111&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salonisingh111&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salonisingh111&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
