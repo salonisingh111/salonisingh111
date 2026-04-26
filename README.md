@@ -32,12 +32,6 @@ I’m a B.Sc. Computer Science student specializing in frontend development with
 
 <img src="https://streak-stats.demolab.com?user=salonisingh111&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=salonisingh111&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salonisingh111&theme=tokyonight&hide_border=true&layout=compact)
-
 </div>
 
 ---
