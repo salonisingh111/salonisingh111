@@ -23,7 +23,6 @@ I’m a B.Sc. Computer Science student specializing in frontend development with
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssaloni3258@gmail.com) 
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/saloni_3258)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/salonisingh3258)
 
 ## 📊 GitHub Stats
