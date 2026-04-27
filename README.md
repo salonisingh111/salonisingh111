@@ -30,7 +30,7 @@ I’m a B.Sc. Computer Science student specializing in frontend development with
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=salonisingh111&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=salonisingh111&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
 
 </div>
 
