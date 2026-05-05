@@ -56,7 +56,7 @@ I learn best by building real things, breaking them, and figuring out why. My cu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=salonisingh111&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=salonisingh111&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
 
 </div>
 
