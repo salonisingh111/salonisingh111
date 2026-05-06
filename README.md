@@ -49,7 +49,7 @@ I learn best by building real things, breaking them, and figuring out why. My cu
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssaloni3258@gmail.com) <br> [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/salonisingh3258)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssaloni3258@gmail.com) <br> <br>[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/salonisingh3258)
 
 ## 📊 GitHub Stats
 
