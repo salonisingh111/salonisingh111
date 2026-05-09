@@ -4,17 +4,11 @@
 <p align="center">
   Computer Science Student &nbsp;|&nbsp; Intern &nbsp;|&nbsp; Building things that work
 </p>
-
-I'm a Computer Science student currently gaining hands-on industry experience as an intern. I focus on writing clean, functional code and enjoy working across the full stack — from structuring databases to building interfaces users can actually navigate without confusion.
-I learn best by building real things, breaking them, and figuring out why. My current focus is backend development with PHP and MySQL, alongside sharpening my frontend skills in HTML and CSS.
-<br>
-
-🎓 Pursuing a degree in Computer Science<br>
-💼 Currently interning and applying classroom concepts to real projects<br>
-🔍 Interests: Web development, database design, problem-solving<br>
-📍 Based in Mumbai, India
-
-
+Computer Science student with hands-on internship experience and a strong interest in web development and backend systems. Passionate about building practical projects, solving real-world problems, and continuously learning through implementation and experimentation.
+🎓 Computer Science Student
+💼 Intern
+🔍 Interests: Web Development, Backend Systems, Problem Solving
+📍 Mumbai, India
 💻 Tech Stack
 <h4 align="center">Programming Languages</h4>
 <p align="center">
