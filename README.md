@@ -55,13 +55,6 @@ Computer Science student with hands-on internship experience and a strong intere
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salonisingh111&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
