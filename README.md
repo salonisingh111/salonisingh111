@@ -53,9 +53,5 @@ Computer Science student with hands-on internship experience and a strong intere
 
 </div>
 
----
-
-
----
 
 
