@@ -29,7 +29,6 @@ Computer Science student with hands-on internship experience and a strong intere
 </p>
 <h4 >UI / UX</h4>
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 <h4>Tools & Platforms</h4>
