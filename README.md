@@ -38,9 +38,6 @@ Computer Science student with hands-on internship experience and a strong intere
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssaloni3258@gmail.com) <br> <br>[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/salonisingh3258)
 
