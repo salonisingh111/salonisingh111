@@ -1,6 +1,6 @@
 ![image](https://github.com/salonisingh111/salonisingh111/blob/main/saloni's_background.png?raw=true)
 
-<h1 align="center">Hi, I'm Saloni 👋</h1>
+
 <p align="center">
   Computer Science Student &nbsp;|&nbsp; Intern &nbsp;|&nbsp; Building things that work
 </p>
