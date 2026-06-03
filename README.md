@@ -6,7 +6,6 @@
 </p>
 Computer Science student with hands-on internship experience and a strong interest in web development and backend systems. Passionate about building practical projects, solving real-world problems, and continuously learning through implementation and experimentation.<br>
 🎓 Computer Science Student<br> <br>
-💼 Intern<br><br>
 🔍 Interests: Web Development, Backend Systems, Problem Solving<br><br>
 📍 Mumbai, India<br><br>
 💻 Tech Stack<br><br>
