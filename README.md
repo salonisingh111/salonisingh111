@@ -5,12 +5,12 @@
   Computer Science Student &nbsp;|&nbsp; Intern &nbsp;|&nbsp; Building things that work
 </p>
 Computer Science student with hands-on internship experience and a strong interest in web development and backend systems. Passionate about building practical projects, solving real-world problems, and continuously learning through implementation and experimentation.<br>
-🎓 Computer Science Student<br>
-💼 Intern<br>
-🔍 Interests: Web Development, Backend Systems, Problem Solving<br>
-📍 Mumbai, India<br>
-💻 Tech Stack<br>
-<h4 >Programming Languages</h4><br>
+🎓 Computer Science Student<br> <br>
+💼 Intern<br><br>
+🔍 Interests: Web Development, Backend Systems, Problem Solving<br><br>
+📍 Mumbai, India<br><br>
+💻 Tech Stack<br><br>
+<h4 >Programming Languages</h4><br><br>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
