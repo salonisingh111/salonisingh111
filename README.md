@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Computer Science Student &nbsp;|&nbsp; Software Engineering Intern &nbsp;|&nbsp; Web developer
+  Computer Science Student &nbsp;|&nbsp; Web developer
 </p>
 
 ---
