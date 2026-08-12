@@ -89,9 +89,5 @@ Computer Science student with hands-on internship experience and a strong intere
 
 ---
 
-### GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=salonisingh111&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak" />
-</div>
 
