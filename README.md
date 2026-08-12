@@ -1,6 +1,6 @@
 <img src="https://github.com/salonisingh111/salonisingh111/blob/main/saloni's_background.png?raw=true" width="100%"/>
 
-<h1 align="center">Saloni rupanjeet Singh</h1>
+<h1 align="center">Saloni Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+%26+Backend+Developer;Turning+Ideas+Into+Interfaces;Always+Learning%2C+Always+Building" alt="Typing SVG" />
