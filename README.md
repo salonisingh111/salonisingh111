@@ -14,7 +14,7 @@
 
 ### About
 
-Computer Science student with hands-on internship experience and a strong interest in web development and backend systems. Passionate about building practical projects, solving real-world problems, and continuously learning through implementation and experimentation.
+Computer Science student with hands-on internship experience and a strong interest in programming. Passionate about building practical projects, solving real-world problems, and continuously learning through implementation and experimentation.
 
 | | |
 |---|---|
