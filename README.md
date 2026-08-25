@@ -19,7 +19,6 @@ Computer Science student with hands-on internship experience and a strong intere
 | | |
 |---|---|
 | **Education** | Computer Science Student |
-| **Interests** | Web Development, Backend Systems, UI/UX, Problem Solving |
 | **Location** | Mumbai, India |
 | **Currently Learning** | React, UI/UX Design with Figma |
 | **Open To** | Internships and collaborative projects |
